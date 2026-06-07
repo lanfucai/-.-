@@ -5,6 +5,7 @@
 [立即登录](https://pay.mymzf.com/login)
 
 ---
+码支付官网：mazhifupay.com
 
 ## 支持微信 支付宝 富友 拉卡拉 全渠道收款
 
