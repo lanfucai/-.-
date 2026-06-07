@@ -75,6 +75,8 @@
 
 QQ交流群：271206663
 
+码支付客服微信/QQ：652268626
+
 
 电报：[t.me/hao1234botpay](https://t.me/hao1234botpay)
 
